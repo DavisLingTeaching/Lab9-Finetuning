@@ -1,0 +1,6 @@
+distil**
+**.zip
+.DS_Store
+.ipynb_checkpoints/**
+sentiment_data/**
+
